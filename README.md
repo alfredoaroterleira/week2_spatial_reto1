@@ -13,6 +13,6 @@
 | 🟢 **Puntos verdes** | Representan los aeropuertos       |
 | 🔴 **Símbolos "+" rojos** | Representan las ciudades      |
 
-## 🔗 Enlace: (https://alfredoharto.github.io/week2_spatial_reto1/)
+## 🔗 Enlace: https://alfredoaroterleira.github.io/week2_spatial_reto1/
 
 - extra (enlace del CRS): https://epsg.io/25832 
